@@ -15,7 +15,7 @@ This repository demonstrates the integration of Celery with a Django project for
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/django-celery.git
+    git clone https://github.com/Morvin-Ian//django-celery.git
     ```
 
 2. Create a virtual environment and activate it:
