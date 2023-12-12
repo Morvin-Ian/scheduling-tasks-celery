@@ -5,4 +5,4 @@ from celery import shared_task
 def func_test(self):
     for x in range(10):
         print(x)
-    return "Final"
+    return "Task Complete !!"
