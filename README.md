@@ -4,9 +4,9 @@ This repository demonstrates the integration of Celery with a Django project for
 
 ## Requirements
 
-- Python (3.x recommended)
-- Django (version x.x.x)
-- Celery (version x.x.x)
+- Python 
+- Django 
+- Celery 
 - Redis (as message broker)
 - (Optional) Supervisord or systemd for managing Celery workers in production
 
